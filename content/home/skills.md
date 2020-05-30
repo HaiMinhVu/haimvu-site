@@ -40,7 +40,7 @@ subtitle = ""
 
 [[feature]]
   icon = "cloud"
-  icon_pack = "fax"
+  icon_pack = "fas"
   name = "Cloud Services"
   description = "AWS VPC, EC2, RDS, S3, IAM"
 
