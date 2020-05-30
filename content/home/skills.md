@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,22 +15,41 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming Languages"
+  description = "PHP, JavaScript, SQL, HTML/CSS, Python, Java"
+
+[[feature]]
+  icon = "laravel"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Framework/Library"
+  description = "Bootstrap, JQuery, ReactJS, VueJS, Laravel"
+
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Tools/Version Control"
+  description = "Android Studio, Xcode, Git, Bitbucket"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Operating Systems"
+  description = "Windows, Linux, Mac OS"  
+
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fax"
+  name = "Cloud Services"
+  description = "AWS VPC, EC2, RDS, S3, IAM"
+
+[[feature]]
+  icon = "globe"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Languages"
+  description = "English, Vietnamese"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

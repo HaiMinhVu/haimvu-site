@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hai Vu
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Sellmark Corporation
+  url: "www.sellmark.net"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,7 +64,5 @@ user_groups:
 ---
 
 I am a Software Engineer at Sellmark Corporation. My primary job is to design a new features, applications per users request.
-
 My interests include mobile development, web development.
-
 I have been designed, developed multiple applications and websites over the past years. 
