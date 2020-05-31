@@ -32,6 +32,6 @@ What is CMS?
 
 CMS is an application which is used by marketing team to manage all the products including their images, features, prices ... for multiple website such as sightmark.com, fire-field.com, 12survivors.com, and pulsarnv.com.
 
-CMS is a web application is built using XAMPP, which consists of Apache web server with other features built in. The web application is implemented with HTML, CSS and JavaScript on the front-end as many other websites. Database would be stored and managed using MySQL, which is stacked in and very convenient to use with XAMPP. On the back-end, server-side logic and database connection would be managed by PHP
+CMS is a web application is built using XAMPP, which consists of Apache web server with other features built in. The web application is implemented with HTML, CSS and JavaScript on the front-end as many other websites. Database would be stored and managed using MySQL, which is stacked in and very convenient to use with XAMPP. On the back-end, server-side logic and database connection would be managed by PHP.
 
 
