@@ -1,5 +1,5 @@
 ---
-title: FrogTutoring
+title: Internal Project
 summary: An Android application allows students to connect with tutors on their needs.
 tags:
 - java
