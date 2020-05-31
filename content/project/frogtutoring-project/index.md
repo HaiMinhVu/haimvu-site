@@ -1,9 +1,8 @@
 ---
-title: FrogTutoring
+title: Frog Tutoring
 summary: An Android application allows students to connect with tutors on their needs.
 tags:
 - java
-- php
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,7 +28,7 @@ url_video: ""
 
 Why FrogTutoring?
 
-Android application which allows:
+FrogTutoring is a mobile application which allows students to seek for help based on their needs and tutors to earn some extra money on their free time.
+FrogTutoring was built using Android Studio with local database SQLite
 
-Students who want to look for tutors based on major, rating, experience
-Tutors who want to earn some extra money as they are tutoring on their free time.
+
