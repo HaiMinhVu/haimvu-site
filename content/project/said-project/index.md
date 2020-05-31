@@ -1,6 +1,6 @@
 ---
 title: SAID
-summary: Sellmark All Include Database
+summary: SAID is an central management application to manage daily basis work.
 tags:
 - php
 - html/css
@@ -30,7 +30,7 @@ url_video: ""
 
 What is SAID?
 
-SAID is a central application for Sellmark Corporation which help marketing team, accounting team with their daily basis jobs.
+SAID is a central management application which help marketing team, accounting team with their daily basis jobs.
 
 Marketing team is using SAID to keep track of marketing content, conversation with influencers, and T&E program.
 Accounting team is using SAID to store all the expenses of the company including travel expenses, tradeshow expenses, rental expenses.
