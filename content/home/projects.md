@@ -24,14 +24,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-  
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
 
   [[content.filter_button]]
     name = "Python"
