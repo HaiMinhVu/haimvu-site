@@ -23,14 +23,14 @@ subtitle = ""
 [[feature]]
   icon = "laravel"
   icon_pack = "fab"
-  name = "Framework/Library"
-  description = "Bootstrap, JQuery, ReactJS, VueJS, Laravel, Flask, Django"
+  name = "Library/Framework"
+  description = "Bootstrap, JQuery/Ajax, ReactJS, VueJS, Laravel, Flask, Django"
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Tools/Version Control"
-  description = "Android Studio, Xcode, Git, GitHub, Bitbucket"  
+  description = "Android Studio, Git, GitHub, Bitbucket"  
 
 [[feature]]
   icon = "linux"
